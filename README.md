@@ -3,4 +3,4 @@ This is a chat app based on Gemini AI API. It answers text and photo queries wit
 
 PACKAGES:
 stacked, wechat_asset_picker, flutter_markdown, google_generative_ai
-A new Flutter project.
+
